@@ -9,7 +9,7 @@ export default function Home() {
     return (
         <>
 
-            <div className="container">
+            <div className="container" style={{ backgroundColor: "red" }}>
                 <div className="row ">
                     <div className="d-flex col-sm-12">
                         {
